@@ -1,8 +1,8 @@
-// In this I had used Itrations other than recursions. 
+#  In this I had used Itrations other than recursions. 
 
-// this question is to print a spiral matrix of a given size n. This question is also given in tcs codevita so I had mentioned chakravyuha and In tcs they asked power point so I had added them 
+#  this question is to print a spiral matrix of a given size n. This question is also given in tcs codevita so I had mentioned chakravyuha and In tcs they asked power point so I had added them 
 
-// power points are the numbers divided by 11 so I had noted the points where multiples of 11 had came and return them
+#  power points are the numbers divided by 11 so I had noted the points where multiples of 11 had came and return them
 
 a=int(input())
 b=a
