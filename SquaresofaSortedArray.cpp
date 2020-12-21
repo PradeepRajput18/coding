@@ -1,3 +1,7 @@
+// in this problem I had been compared elements based on the logic some of from two pointers or quick sort
+
+
+
 #include<iostream>
 using std::cout;
 using std::cin;
