@@ -33,7 +33,6 @@ I will add all the programming problems I had done at my level best. some will b
 [<img align="left" alt="CSS3" width="26px" src="https://www.vizteams.com/wp-content/uploads/2013/08/python-logo-master.png" />]
 
 <br />
-<br />
 
 
 <details>
@@ -65,4 +64,4 @@ I will add all the programming problems I had done at my level best. some will b
 </details>
 
 [twitter]: https://twitter.com/PradeepCodescifi
-[linkedin]: https://linkedin.com/in/pradeep-rekkapalli
+[linkedin]: https://linkedin.com/in/pradeep-rekkapalli-1bab5116b
