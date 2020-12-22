@@ -1,3 +1,16 @@
+//  bubble sort which is done in cpp using functions here I had said effi compared to normal bubble sort as it reduces steps as you can see by keeping swaps flag to check if any swaps are over or not
+// if not then break the loop so it reduces steps
+
+//  I had used short beacuse I had used only short range integers If you want you can change it to int. I had done it in memory concern and concept purpose of usage of short
+
+
+
+
+
+
+
+
+
 #include<iostream>
 using std::cout;
 using std::endl;
