@@ -1,4 +1,5 @@
-// Insertion sort all selection bubble insertion are quadratic sorts so it is better to use insertion sort in case if you use want to use best of thses three selection sort is worest of all
+// Insertion sort all selection bubble insertion are quadratic sorts so it is better to use insertion sort in case if you use want to use best of thses three selection
+// sort is worest of all
 //  second place is bubble sort and first is insertion sort 
 //  the thing which makes insertion sort best of bubble is which reduces some swap cases compared to bubble sort 
 
