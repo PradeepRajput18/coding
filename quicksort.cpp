@@ -1,3 +1,12 @@
+// Quick sort is best and fast sorting algorithm of no extra space using with by using divide and conqure rule. which does minimum no of swaps by using pivot element we compare 
+// all the elements in such a way that elements left of pivot should be less than pivot and right of it should be greater than 
+
+// it is difficult to understand or to implment ( this is my opinion and I had faced ). So I had refered pseudo code from greeks for greeks and then code in middle I had faced one problem
+
+
+
+
+
 #include<iostream>
 using std::cout;
 using std::endl;
