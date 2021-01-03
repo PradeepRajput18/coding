@@ -1,3 +1,12 @@
+// I had done merge sort which is better than quick sort at large data sets as we came to small data quick sort is best compared to merge sort. I think we should use merge sort while sorting
+//  as to reduce the time consumption
+// merge sort is which breaks all the data into small parts and then it will merge or combine so that combined part will be in sorted order so other data comes then you will again sort the data
+//  which is easy to understand and which follows divide and conquer rule
+
+
+
+
+
 #include<iostream>
 using std::cout;
 using std::endl;
