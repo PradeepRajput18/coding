@@ -1,3 +1,6 @@
+// I had already done chakravyuha or spiral matrix in python but I had done it in cpp. Again to know more about cpp . I had done perfectly regarding square but not rectangle
+// here M is size of matrix and n is used to define low point which is zero as default for square
+
 #include<bits/stdc++.h>
 using std::cout;
 using std::endl;
