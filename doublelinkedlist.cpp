@@ -1,3 +1,9 @@
+// double linked list which is similar to single linked list but rather than adding one extra link to the chain.I had done insert , delete ,
+// update(update means insert a new element as you define a position in a already existed list)
+// findlength,display 
+
+
+
 #include<iostream>
 #include<bits/stdc++.h>
 using std::cout;
@@ -27,12 +33,15 @@ dlink update(dlink root){
 	short len=findlength(root);
 	short pos,x;
 //	jump:
+	        cout<<"enter position"<<endl;
 		cin>>pos;
+	        cout<<"enter number to be inserted"<<endl;
 		cin>>x;
 //	if(pos>len || pos<0){
 //		cout<<"pls enter valid number or pos is greater than len"<<endl;
 //		goto jump;
 //	}
+// 	Using Goto is a bad practice so I had commited it
 	if(pos==1){
 		dlink l;
 		l=(dlink)malloc(sizeof(struct node));
