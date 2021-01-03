@@ -1,3 +1,9 @@
+// reversing a array without using any extra space it is easy but I had done for knowing how parameters are passed and reference address are used I had done it in swap function
+
+
+
+
+
 #include<iostream>
 using std::cout;
 using std::endl;
