@@ -1,3 +1,7 @@
+// rotatig a marix in 90 degress anticlockwise or 270 degrees clockwise in cpp
+// I Had done for a square and for rectangle matrix 
+// I had used m and n to find no of rows and colomns
+
 #include<iostream>
 using std::cout;
 using std::endl;
@@ -11,6 +15,7 @@ int main(){
    };
    short m= sizeof(a)/sizeof(a[0]);
    short n= sizeof(a[0])/sizeof(short);
+//    If it is a square matrix then no swap is required
    if(m!=n){
 	   m=m+n;
 	   n=m-n;
