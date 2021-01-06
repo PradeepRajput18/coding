@@ -1,12 +1,13 @@
-Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
+# Question
+# Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
 
-There is only one repeated number in nums, return this repeated number.
+# There is only one repeated number in nums, return this repeated number.
 
 
 
-
-i had done this solution in python as I had used dictionary in it which is way more faster to find elements
-I had inserted into dictionary and finded that element exist in it or not 
+# Explanation
+# i had done this solution in python as I had used dictionary in it which is way more faster to find elements
+# I had inserted into dictionary and finded that element exist in it or not 
 
 
 def firstduplicate(x):
