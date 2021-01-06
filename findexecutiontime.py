@@ -1,14 +1,14 @@
 
 
 
-find executon time taken for a program in python 
+# find executon time taken for a program in python 
 
 
 import time
 
 start = time.localtime()
 
-logic or code here 
+# logic or code here 
 
 end = time.localtime()
 """Total execution time in minutes$ """
