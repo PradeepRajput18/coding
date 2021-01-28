@@ -1,3 +1,7 @@
+
+//  this is the code which i had done in leetcode so directly I had copied from there
+
+
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
@@ -16,6 +20,8 @@ public:
            return island;
     }
     
+//     cover island means convert the entered part of the island ( one to zero) of array 
+    
     int coverisland(vector<vector<char>>& grid, short i, short j)
     {
         if(i<0 || i>=grid.size() || j<0 || j>=grid[0].size() || grid[i][j]=='0'){
@@ -33,6 +39,8 @@ public:
 
 
 
+
+// this is the first approach I had tried but later I had know that it is a dfs problem but this brut force method will also give right answer
 
 //#include<iostream>
 //using std::cout;
