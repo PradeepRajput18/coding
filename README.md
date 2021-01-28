@@ -2,6 +2,7 @@
 I will add all the programming problems I had done at my level best. some will be my ideas and some will be inspired from others code. this readme.md done with help of codeSTACKr 😁😋
 
 
+# I had not entered questions here but you can search file name so that you will get exact question for which i Had done
 
 
 
