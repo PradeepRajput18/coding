@@ -1,5 +1,8 @@
 
+# it is used to find no of tailing zeros of a factorial it is benefecial for large numbers to save most of the time by continious division of 5 
 
+here the artical link 
+https://www.purplemath.com/modules/factzero.htm
 
 class Solution:
     def Met(self, n):
